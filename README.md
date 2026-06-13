@@ -213,14 +213,16 @@ The original attendance dataset contains approximately 182,000 records. To keep 
 ## Dashboard Preview
 
 ### Executive HR Overview
-Dashboard Screenshots/Executive Dashboard.png
+
+![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
 
 ### Attrition Dashboard
 
+![Attrition Dashboard](Dashboard%20Screenshots/Attrition%20Dashboard.png)
 
 ### Compensation Dashboard
-Dashboard Screenshots/Salary and Compensation Dashboard.png)
----
+
+![Compensation Dashboard](Dashboard%20Screenshots/Salary%20and%20Compensation%20Dashboard.png)
 
 ## Author
 
